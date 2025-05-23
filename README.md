@@ -1,5 +1,14 @@
 # Neuro-Viral Pruning and Beyond for Emergence of Artificial Super Intelligence
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15493834.svg)](https://doi.org/10.5281/zenodo.15493834)
+
+![Banner](assets/ai-biology-banner.jpg)
+
+## 🚀 Overview
+...
+
+
 ![Banner](https://raw.githubusercontent.com/your-repo-assets/ai-biology-banner.jpg)
 
 ## 🚀 Overview
